@@ -2,6 +2,7 @@
 
 **Name:** Aidar Murat
 **Group:** SE - 2539
+**Website:** https://ayduh.github.io/WEB-Tech-Assignment2/
 
 ## Task 0. Navigation Bar
 Header with a logo on the left and nav links on the right, using Flexbox for alignment and spacing.
